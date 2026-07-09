@@ -1,0 +1,7 @@
+# Weather + Outfit Advisor — dependencies
+# Install: pip install -r requirements.txt
+
+flask>=2.3.0
+openai>=1.40.0
+requests>=2.31.0
+python-dotenv>=1.0.0
